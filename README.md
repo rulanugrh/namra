@@ -1,29 +1,18 @@
-<h1 align="center"> Welcome To Repo Namra </h1>
+# Namra: Personal Website with Theme Pixel 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+This repo containing personal website with theme piexel. However this web, i have been created 3 years ago (2023), this web use `Tailwind CSS` for styling and `Flowbite` for better component used
 
-## Home Page
-<img src="https://media.discordapp.net/attachments/1125700600387084318/1126435777908310046/image.png?width=1252&height=625" />
+### Home Page
+![img](.github/personal-website/home.png)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+### Profile Page
+![img](.github/personal-website/profile.png)
 
-## Profile Page
-<img src="https://media.discordapp.net/attachments/1125700600387084318/1126435984003846215/image.png?width=1252&height=625">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+### Project Page
+![img](.github/personal-website/project.png)
 
-## Project Page
-<img src="https://media.discordapp.net/attachments/1125700600387084318/1126436280398516284/image.png?width=1245&height=625">
+### Contact Page
+![img](.github/personal-website/contact.png)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## Contact Page
-<img src="https://media.discordapp.net/attachments/1125700600387084318/1126436705151496202/image.png?width=1245&height=625">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## Card
-<img src="https://media.discordapp.net/attachments/1125700600387084318/1126701492439617566/image.png?width=1261&height=625" >
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-> Note: thanks for visit my website and my github repo 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
